@@ -2,9 +2,9 @@
   "projectId": "2cb35f8c-8572-40a7-b391-bddaa4620406",
   "sourceLocale": "en",
   "environment": "production",
-  "version": "1",
-  "versionNumber": 1,
-  "publishedAt": "2026-10-04T13:33:34.133Z",
+  "version": "2",
+  "versionNumber": 2,
+  "publishedAt": "2026-10-04T13:47:37.997Z",
   "locales": {
     "en": {
       "home.docs": "Documentation",
@@ -19,7 +19,7 @@
     },
     "sv": {
       "home.docs": "Dokumentation",
-      "home.deploy": "Distribuera nu",
+      "home.deploy": "Börja deploya",
       "home.intro.or": "eller",
       "home.learning": "Lärande",
       "home.templates": "Mallar",
