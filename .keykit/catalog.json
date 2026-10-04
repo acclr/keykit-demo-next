@@ -2,12 +2,13 @@
   "projectId": "2cb35f8c-8572-40a7-b391-bddaa4620406",
   "sourceLocale": "en",
   "environment": "production",
-  "version": "2",
-  "versionNumber": 2,
-  "publishedAt": "2026-10-04T13:47:37.997Z",
+  "version": "3",
+  "versionNumber": 3,
+  "publishedAt": "2026-10-04T14:23:30.953Z",
   "locales": {
     "en": {
       "home.docs": "Documentation",
+      "home.intro": "Looking for a starting point or more instructions? Head over to",
       "home.deploy": "Deploy Now",
       "home.intro.or": "or the",
       "home.learning": "Learning",
@@ -19,6 +20,7 @@
     },
     "sv": {
       "home.docs": "Dokumentation",
+      "home.intro": "Letar du efter en startpunkt eller fler instruktioner? Gå till",
       "home.deploy": "Börja deploya",
       "home.intro.or": "eller",
       "home.learning": "Lärande",
