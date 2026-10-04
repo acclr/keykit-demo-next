@@ -1,9 +1,11 @@
 {
-  "home.intro": "Looking for a starting point or more instructions? Head over to",
+  "home.docs": "Documentation",
+  "home.deploy": "Deploy Now",
   "home.intro.or": "or the",
   "home.learning": "Learning",
   "home.templates": "Templates",
   "home.intro.tail": "center.",
+  "locale.switcher": "Language",
   "home.heading.lead": "To get started, edit the",
   "home.heading.tail": "file."
 }

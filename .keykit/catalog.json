@@ -1,30 +1,32 @@
 {
-  "projectId": "6a6a2a7b-bd8f-4887-bb01-80fd614fec95",
-  "sourceLocale": "sv",
+  "projectId": "2cb35f8c-8572-40a7-b391-bddaa4620406",
+  "sourceLocale": "en",
   "environment": "production",
   "version": "1",
   "versionNumber": 1,
-  "publishedAt": "2026-09-26T15:27:10.580Z",
+  "publishedAt": "2026-10-04T13:33:34.133Z",
   "locales": {
-    "sv": {
+    "en": {
       "home.docs": "Documentation",
-      "home.intro": "Looking for a starting point or more instructions? Head over to",
       "home.deploy": "Deploy Now",
       "home.intro.or": "or the",
       "home.learning": "Learning",
       "home.templates": "Templates",
       "home.intro.tail": "center.",
+      "locale.switcher": "Language",
       "home.heading.lead": "To get started, edit the",
       "home.heading.tail": "file."
     },
-    "en": {
-      "home.intro": "Looking for a starting point or more instructions? Head over to",
-      "home.intro.or": "or the",
-      "home.learning": "Learning",
-      "home.templates": "Templates",
-      "home.intro.tail": "center.",
-      "home.heading.lead": "To get started, edit the",
-      "home.heading.tail": "file."
+    "sv": {
+      "home.docs": "Dokumentation",
+      "home.deploy": "Distribuera nu",
+      "home.intro.or": "eller",
+      "home.learning": "Lärande",
+      "home.templates": "Mallar",
+      "home.intro.tail": "centrum.",
+      "locale.switcher": "Språk",
+      "home.heading.lead": "Börja med att redigera",
+      "home.heading.tail": "fil."
     }
   }
 }
