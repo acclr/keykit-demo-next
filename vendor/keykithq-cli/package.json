@@ -1,0 +1,14 @@
+{
+  "name": "@keykithq/cli",
+  "version": "0.1.2",
+  "description": "Keykit CLI — scan keys, pull locale bundles, and apply migrations locally",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "keykit": "dist/index.js"
+  },
+  "dependencies": {
+    "@keykithq/sdk": "^0.0.4",
+    "jiti": "^2.7.0"
+  }
+}
