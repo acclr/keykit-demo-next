@@ -15,8 +15,7 @@
       "home.templates": "Templates",
       "home.intro.tail": "center.",
       "locale.switcher": "Language",
-      "home.heading.lead": "To get started, edit the",
-      "home.heading.tail": "file."
+      "home.heading": "Start with editing the {fileName} file"
     },
     "sv": {
       "home.docs": "Dokumentation",
@@ -27,8 +26,7 @@
       "home.templates": "Mallar",
       "home.intro.tail": "centrum.",
       "locale.switcher": "Språk",
-      "home.heading.lead": "Börja med att redigera",
-      "home.heading.tail": "fil."
+      "home.heading": "Börja med att redigera {fileName}"
     }
   }
 }

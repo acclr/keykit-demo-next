@@ -7,6 +7,5 @@
   "home.templates": "Templates",
   "home.intro.tail": "center.",
   "locale.switcher": "Language",
-  "home.heading.lead": "To get started, edit the",
-  "home.heading.tail": "file."
+  "home.heading": "Start with editing the {fileName} file"
 }

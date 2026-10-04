@@ -30,12 +30,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">
-        <KeykitProvider>
-          <header className="flex justify-end px-6 py-4">
-            <LocaleSwitcher locales={keykitConfig.locales ?? []} />
-          </header>
-          {children}
-        </KeykitProvider>
+        <KeykitProvider>{children}</KeykitProvider>
       </body>
     </html>
   );
