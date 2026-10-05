@@ -1,0 +1,14 @@
+{
+  "home.docs": "Dokumentasjon",
+  "home.intro": "Leter du etter et sted å starte eller mer veiledning? Gå til",
+  "home.deploy": "Distribuer nå",
+  "home.heading": "Begynn med å redigere filen {fileName}",
+  "home.intro.or": "eller",
+  "home.learning": "Læring",
+  "home.templates": "Maler",
+  "home.intro.tail": "senter.",
+  "locale.switcher": "Språk",
+  "home.heading.lead": "For å komme i gang, rediger",
+  "home.heading.tail": "fil.",
+  "home.footer.copyright": "Opphavsrett © 2026 Keykit"
+}

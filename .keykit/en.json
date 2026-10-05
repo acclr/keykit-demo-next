@@ -1,11 +1,14 @@
 {
   "home.docs": "Documentation",
   "home.intro": "Looking for a starting point or more instructions? Head over to",
-  "home.deploy": "Deploy Now",
+  "home.deploy": "Deploy today",
+  "home.heading": "Start with editing the {fileName} file",
   "home.intro.or": "or the",
   "home.learning": "Learning",
   "home.templates": "Templates",
   "home.intro.tail": "center.",
   "locale.switcher": "Language",
-  "home.heading": "Start with editing the {fileName} file"
+  "home.heading.lead": "To get started, edit the",
+  "home.heading.tail": "file.",
+  "home.footer.copyright": "Copyright © 2026 Keykit"
 }

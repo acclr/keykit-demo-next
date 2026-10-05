@@ -78,6 +78,8 @@ export default function Home() {
             {t("home.docs", "Documentation")}
           </a>
         </div>
+
+        <span>{t("home.footer.copyright", "Copyright © 2026 Keykit")}</span>
       </main>
     </div>
   );

@@ -2,31 +2,51 @@
   "projectId": "2cb35f8c-8572-40a7-b391-bddaa4620406",
   "sourceLocale": "en",
   "environment": "production",
-  "version": "3",
-  "versionNumber": 3,
-  "publishedAt": "2026-10-04T14:23:30.953Z",
+  "version": "10",
+  "versionNumber": 10,
+  "publishedAt": "2026-10-05T14:17:29.951Z",
   "locales": {
     "en": {
       "home.docs": "Documentation",
       "home.intro": "Looking for a starting point or more instructions? Head over to",
-      "home.deploy": "Deploy Now",
+      "home.deploy": "Deploy today",
+      "home.heading": "Start with editing the {fileName} file",
       "home.intro.or": "or the",
       "home.learning": "Learning",
       "home.templates": "Templates",
       "home.intro.tail": "center.",
       "locale.switcher": "Language",
-      "home.heading": "Start with editing the {fileName} file"
+      "home.heading.lead": "To get started, edit the",
+      "home.heading.tail": "file.",
+      "home.footer.copyright": "Copyright © 2026 Keykit"
     },
     "sv": {
       "home.docs": "Dokumentation",
-      "home.intro": "Letar du efter en startpunkt eller fler instruktioner? Gå till",
-      "home.deploy": "Börja deploya",
+      "home.intro": "Undrar du vart du ska börja, eller vill du ha mer instruktioner? Gå till",
+      "home.deploy": "Kom igång!",
+      "home.heading": "Börja med att redigera filen {fileName}",
       "home.intro.or": "eller",
-      "home.learning": "Lärande",
+      "home.learning": "Läro",
       "home.templates": "Mallar",
       "home.intro.tail": "centrum.",
       "locale.switcher": "Språk",
-      "home.heading": "Börja med att redigera {fileName}"
+      "home.heading.lead": "Starta genom att redigera",
+      "home.heading.tail": "fil.",
+      "home.footer.copyright": "© 2026 Keykit - Alla rättigheter reserverade"
+    },
+    "nb": {
+      "home.docs": "Dokumentasjon",
+      "home.intro": "Leter du etter et sted å starte eller mer veiledning? Gå til",
+      "home.deploy": "Distribuer nå",
+      "home.heading": "Begynn med å redigere filen {fileName}",
+      "home.intro.or": "eller",
+      "home.learning": "Læring",
+      "home.templates": "Maler",
+      "home.intro.tail": "senter.",
+      "locale.switcher": "Språk",
+      "home.heading.lead": "For å komme i gang, rediger",
+      "home.heading.tail": "fil.",
+      "home.footer.copyright": "Opphavsrett © 2026 Keykit"
     }
   }
 }
